@@ -8,5 +8,6 @@ public class Main {
 	public void go(){
 		System.out.println("in go");
 		System.out.println("added printline");
+		System.out.println("another");
 	}
 }
