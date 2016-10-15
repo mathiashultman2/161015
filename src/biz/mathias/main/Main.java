@@ -10,5 +10,6 @@ public class Main {
 		System.out.println("a newline in first");
 		System.out.println("added printline");
 		System.out.println("conflicting line");
+		System.out.println("another");
 	}
 }
