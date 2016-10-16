@@ -1,15 +1,13 @@
 package biz.mathias.main;
 
+import org.slf4j.Logger;
+
 public class Main {
+	private Logger logger;
 	public static void main(String[] args) {
-		System.out.println("check");
 		new Main().go();
 	}
 	public void go(){
 		System.out.println("in go");
-		System.out.println("a newline in first");
-		System.out.println("added printline");
-		System.out.println("conflicting line");
-		System.out.println("another");
 	}
 }
